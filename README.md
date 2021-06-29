@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SwagPat
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to work in an internship
+- 📫 Reach me on my email - uhussain505@gmail.com
